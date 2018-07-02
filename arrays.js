@@ -1,11 +1,10 @@
-var chocolateBars = ['chocolateBars',
-                      'snickers',
-                      'hundred grand',
-                      'kitkat',
-                      'skittles'];
+var chocolateBars = ["chocolateBars",
+                      "snickers",
+                      "hundred grand",
+                      "kitkat",
+                      "skittles"];
 
 function addElementToBeginningOfArray(array, element) {
-  element = string element 
   return [element, ...array];
 }
 
